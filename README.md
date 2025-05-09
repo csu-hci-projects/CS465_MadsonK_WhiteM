@@ -19,6 +19,7 @@ https://youtu.be/ErEy0j7CV7A
 
 ------------------------------------
 Final Project Submission
+This project was completed by Maryangela White and Kaylee Madson. We created a working protoype, experiment, and research paper. 
 Link to Overleaf:
 https://www.overleaf.com/read/pjbdvjqtpqhr#3a1997
 Link to Code Video:
